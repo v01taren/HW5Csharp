@@ -1,0 +1,15 @@
+D:\GeekBrains\HW5Csharp\34hw\bin\Debug\net6.0\34hw.exe
+D:\GeekBrains\HW5Csharp\34hw\bin\Debug\net6.0\34hw.deps.json
+D:\GeekBrains\HW5Csharp\34hw\bin\Debug\net6.0\34hw.runtimeconfig.json
+D:\GeekBrains\HW5Csharp\34hw\bin\Debug\net6.0\34hw.dll
+D:\GeekBrains\HW5Csharp\34hw\bin\Debug\net6.0\34hw.pdb
+D:\GeekBrains\HW5Csharp\34hw\obj\Debug\net6.0\34hw.csproj.AssemblyReference.cache
+D:\GeekBrains\HW5Csharp\34hw\obj\Debug\net6.0\34hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\HW5Csharp\34hw\obj\Debug\net6.0\34hw.AssemblyInfoInputs.cache
+D:\GeekBrains\HW5Csharp\34hw\obj\Debug\net6.0\34hw.AssemblyInfo.cs
+D:\GeekBrains\HW5Csharp\34hw\obj\Debug\net6.0\34hw.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HW5Csharp\34hw\obj\Debug\net6.0\34hw.dll
+D:\GeekBrains\HW5Csharp\34hw\obj\Debug\net6.0\refint\34hw.dll
+D:\GeekBrains\HW5Csharp\34hw\obj\Debug\net6.0\34hw.pdb
+D:\GeekBrains\HW5Csharp\34hw\obj\Debug\net6.0\34hw.genruntimeconfig.cache
+D:\GeekBrains\HW5Csharp\34hw\obj\Debug\net6.0\ref\34hw.dll
